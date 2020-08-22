@@ -33,6 +33,14 @@ private slots:
 
     void reset();
 
+    void resetQuet();
+
+    void on_btnXoasv_clicked();
+
+    void on_btnSuasv_clicked();
+
+    void on_menuTTsv_clicked();
+
 private:
     Ui::MainWindow *ui;
 };
