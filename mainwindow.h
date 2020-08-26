@@ -41,6 +41,8 @@ private slots:
 
     void on_menuTTsv_clicked();
 
+    void on_menudashboard_clicked();
+
 private:
     Ui::MainWindow *ui;
 };
